@@ -12,7 +12,7 @@ else:
     print(f'{n} is not a amstrong number')
 
 #  here we are taking dummy value because we are performing floor division
-# floor division will reduce the value to zero
+# floor division will reduce the given 'n' value to zero so that is why we are taking a dummy value
 #  The while loop iterates like first, it checks if the number is not equal to zero or not
 # if it is not equal to zero then enter into the loop and find the reminder of number ex: 153%10 gives reminder 3.
 # In the next step add the cube of a number to the sum1(3*3*3).
